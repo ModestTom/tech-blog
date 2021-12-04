@@ -8,7 +8,7 @@
 
   ## Description ##
   This is a blog specifically for tech related discussions/questions. You can make a post of anything regarding technology. You are able to leave comments on posts and update/delete your own posts. \
-  Visit the site here: [Heroku Deployment](https://fierce-brook-95945.herokuapp.com/)
+  Visit the site here: [Heroku Deployment](https://mysterious-bastion-30368.herokuapp.com/)
 
 
   ## Installation ##
